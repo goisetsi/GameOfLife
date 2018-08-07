@@ -1,0 +1,14 @@
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\GameOfLife.deps.json
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\GameOfLife.runtimeconfig.json
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\GameOfLife.runtimeconfig.dev.json
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\GameOfLife.dll
+C:\Users\billys\Documents\GameOfLife\GameOfLife\bin\Debug\netcoreapp2.0\GameOfLife.pdb
+C:\Users\billys\Documents\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.0\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\billys\Documents\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.0\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\billys\Documents\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.0\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\billys\Documents\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.0\GameOfLife.AssemblyInfo.cs
+C:\Users\billys\Documents\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.0\GameOfLife.dll
+C:\Users\billys\Documents\GameOfLife\GameOfLife\obj\Debug\netcoreapp2.0\GameOfLife.pdb
